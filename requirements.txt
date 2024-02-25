@@ -1,0 +1,4 @@
+sanic
+mysql-connector-python
+python-dotenv
+sentry-sdk
